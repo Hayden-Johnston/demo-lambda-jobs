@@ -1,0 +1,5 @@
+venv
+__pycache__
+chromedriver
+headless-chromium
+package
